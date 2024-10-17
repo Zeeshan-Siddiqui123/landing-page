@@ -15,7 +15,7 @@ const Header = () => {
         </div>
         <div>
             <button className='w-[150px] p-2 h-[50px] rounded-md border-black bg-white text-black'>
-                {/* <Link to='/account'>Login/Sign up</Link> */}
+                
             <Link to='/contact' className='text-black'>Contact</Link>
 
             </button>
